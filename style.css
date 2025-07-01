@@ -1,0 +1,252 @@
+header img{
+
+    
+
+    width: 500px;
+
+    
+
+    height: 240px;
+
+    border: 2px solid black;
+
+    box-shadow: 1px 1px 2px 2px black;
+
+    border-radius: 7px;
+}
+
+body{
+
+    background-color: rgb(158, 231, 158);
+}
+
+header p{
+
+    text-align: center;
+}
+
+.header h1{
+
+    position: relative;
+
+    color: white;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    top: -67px;
+
+   
+
+}
+
+div{
+
+    
+
+    color: white;
+
+    position: relative;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    top: -67px;
+
+    text-align: center;
+}
+
+header p{
+
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    position: relative;
+}
+
+.Eight{
+    background-image: linear-gradient(green, lightgreen);
+    width: 200px;
+
+    height: 275px;
+
+    border: 3px solid black;
+
+    
+
+    
+
+}
+
+.Eight p{
+
+    position: relative;
+
+    
+
+    font-size: 40px;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+.Eight a{
+
+
+    text-decoration: none;
+
+    position: relative;
+
+    top: 15px;
+
+    width: 100px;
+
+    height: 100px;
+
+    color: white;
+
+    font-size: 30px;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+
+}
+
+.Eight a:hover{
+
+    transition: 0.3s;
+    border: 2px dashed black;
+
+    
+
+
+}
+
+.Eight2{
+    background-image: linear-gradient(green, lightgreen);
+    width: 200px;
+
+    height: 275px;
+
+    border: 3px solid black;
+
+    position: relative;
+
+    right: -250px;
+
+    top: -348px;
+
+}
+
+.Eight2 p{
+
+    position: relative;
+
+    
+
+    font-size: 40px;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+.Eight2 a{
+
+
+    text-decoration: none;
+
+    position: relative;
+
+    top: 15px;
+
+    width: 100px;
+
+    height: 100px;
+
+    color: white;
+
+    font-size: 30px;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+
+}
+
+.Eight2 a:hover{
+
+    transition: 0.3s;
+    border: 2px dashed black;
+
+    
+
+
+}
+
+
+.Eight3{
+    background-image: linear-gradient(green, lightgreen);
+    width: 200px;
+
+    height: 275px;
+
+    border: 3px solid black;
+
+    position: relative;
+
+    right: -500px;
+
+    top: -629px;
+
+}
+
+.Eight3 p{
+
+    position: relative;
+
+    
+
+    font-size: 40px;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+.Eight3 a{
+
+
+    text-decoration: none;
+
+    position: relative;
+
+    top: 15px;
+
+    width: 100px;
+
+    height: 100px;
+
+    color: white;
+
+    font-size: 30px;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+
+}
+
+.Eight3 a:hover{
+
+    transition: 0.3s;
+    border: 2px dashed black;
+
+    
+
+
+}
+
