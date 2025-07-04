@@ -250,3 +250,165 @@ header p{
 
 }
 
+.Eight4{
+    background-image: linear-gradient(green, lightgreen);
+    width: 200px;
+
+    height: 275px;
+
+    border: 3px solid black;
+
+    position: relative;
+
+    right: -750px;
+
+    top: -910px;
+
+   
+
+}
+
+.Eight4 p{
+
+    position: relative;
+
+    
+
+    font-size: 40px;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+.Eight4 a{
+
+
+    text-decoration: none;
+
+    position: relative;
+
+    top: 15px;
+
+    width: 100px;
+
+    height: 100px;
+
+    color: white;
+
+    font-size: 30px;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+
+}
+
+.Eight4 a:hover{
+
+    transition: 0.3s;
+    border: 2px dashed black;
+
+    
+
+
+}
+
+.Eight5{
+    background-image: linear-gradient(green, lightgreen);
+    width: 200px;
+    height: 275px;
+    border: 3px solid black;
+    position: relative;
+    right: -1000px; /* Подберите нужное значение для выравнивания */
+    top: -1191px;   /* Подберите нужное значение для выравнивания */
+}
+
+.Eight5 p{
+
+    position: relative;
+
+    
+
+    font-size: 40px;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+.Eight5 a{
+
+
+    text-decoration: none;
+
+    position: relative;
+
+    top: 15px;
+
+    width: 100px;
+
+    height: 100px;
+
+    color: white;
+
+    font-size: 30px;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+
+}
+
+.Eight5 a:hover{
+
+    transition: 0.3s;
+    border: 2px dashed black;
+
+    
+
+
+}
+
+main{
+
+    position: relative;
+
+    right: -58px;
+}
+
+ul{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    font-size: 26px;
+
+
+}
+
+main h1{
+
+    text-align: center;
+
+    font-size: 60px;
+
+    right: 59px;
+
+    position: relative;
+
+    top: -1035px;
+
+}
+
+
+.Tech{
+    position: relative;
+    top: -1000px;
+    right: 5px;
+    font-size: 45px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
