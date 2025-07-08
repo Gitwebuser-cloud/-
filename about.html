@@ -10,11 +10,11 @@
 <body>
 
 
-    <h1 id="Load">Loading:</h1>
+    <h1 id="Load">Loading;</h1>
 
     
 
-    
+    <h1 id="DIE">DIEEEEE!!!!!!</h1>
 
 
 
@@ -25,9 +25,11 @@
     <!-- Аудио скримера -->
     <audio id="scream" src="scream.mp3" preload="auto"></audio>
 
+    <audio id="scream2" src="screamer-jumpscare-66896.mp3" preload="auto"></audio>
+
     <style>
 
-        #MyText{
+        #DIE{
 
             display: none;
 
@@ -40,23 +42,12 @@
             color: red;
 
             font-size: 67px;
+
+
         }
 
-        #MyText2{
 
-            display: none;
-
-            text-align: center;
-
-            position: relative;
-
-            top: -435px;
-
-            color: red;
-
-            font-size: 67px;
-        }
-
+        
         
 
     </style>
@@ -64,6 +55,8 @@
     <script>
 
         setTimeout(function() {
+
+            const DIE = document.getElementById("DIE");
 
             const Load = document.getElementById("Load");
 
@@ -80,9 +73,11 @@
             // Воспроизвести скример
             scream.play();
 
+            scream2.play();
+
             setTimeout (function() {
             
-            
+            DIE.style.display = "block";
 
             setTimeout(function() {
 
